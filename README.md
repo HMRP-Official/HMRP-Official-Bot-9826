@@ -1,5 +1,13 @@
 # HMRP Official Bot #9826 - Private Discord Bot
 
+Im looking for someone/some people to help me with this project.
+**Aim:** A custom command bot for a gta roleplay server.
+
+
+
+
+
+# Changelog
 **NOTE:** Times are in GMT+0, Any issues contact @GracioussBoww#9958 on Discord
 
 **V0.1.0.0 - Major** 15/5/21 22:30
