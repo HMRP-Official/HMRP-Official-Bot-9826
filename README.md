@@ -9,3 +9,7 @@
   - Updated Token
   - Changed Online Status
   - Changed Activity
+
+**V0.2.0.0 - Major** 2/6/21
+- New set of code
+- Actively looking for help now to help me build this bot 
